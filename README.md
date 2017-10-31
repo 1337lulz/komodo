@@ -1,5 +1,14 @@
 
-## Komodod
+Komodo Core integration/staging tree
+=====================================
+
+[![Build Status](https://travis-ci.org/1337lulz/komodo.svg?branch=master)](https://travis-ci.org/1337lulz/komodo)
+
+https://komodoplatform.com
+
+What is Komodo?
+----------------
+
 This software is Komodo client, generally you will use this if you want to mine KMD or setup a full node.
 It downloads and stores the entire history of Komodo transactions; depending on the speed of your computer and network connection, the synchronization process could take a day or more once the blockchain has reached a significant size.
 ## Development Resources
